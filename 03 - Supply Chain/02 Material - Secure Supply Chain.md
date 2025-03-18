@@ -61,6 +61,7 @@ author: Secorvo Security Consulting GmbH
 - [Software Package Data Exchange (SPDX) - TheLinuxFoundationProject](https://spdx.dev/)
 - [Software Identification Tags (SWID) - NIST](https://nvd.nist.gov/products/swid)
 - [Graph of Understanding Artifact Composition (GUAC)](https://guac.sh/)
+- [SEPIA - SBOM Exchange Procedures, Interfaces and Architecture](https://github.com/OpenChain-Project/SBOM-sg-SEPIA)
 
 ### Tools
 
