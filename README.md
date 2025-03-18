@@ -10,8 +10,7 @@ Wir wünschen viel Erfolg und vor allem viel Spaß!
 | ------------- | --------------------------------- |
 | 10:00 - 10:30 | Vorstellung                       |
 | 10:30 - 11:00 | Einführung Hacking                |
-| 11:00 - 11:45 | Spaß mit OWASP Juice Shop         |
-| 11:45 - 12:30 | Spaß mit Github Secure Code Game  |
+| 11:00 - 12:30 | Spaß mit OWASP Juice Shop         |
 | 12:30 - 12:45 | Diskussion zu Hacking             |
 | 12:45 - 13:30 | _Mittagspause_                    |
 | 13:30 - 14:00 | Einführung Threat Modeling        |
