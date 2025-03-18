@@ -94,7 +94,7 @@ docker run -v /var/run/docker.sock:/var/run/docker.sock -v .:/src aquasec/trivy:
 
 ```bash
 curl -LO https://dependencytrack.org/docker-compose.yml
-docker-compose up -d
+docker compose up -d
 ```
 
 ### Upload eines SBOM via API
