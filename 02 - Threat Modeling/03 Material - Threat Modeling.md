@@ -44,7 +44,7 @@ author: Secorvo Security Consulting GmbH
 - [Tutamantic](https://www.tutamantic.com/)
 - [OWASP Risk Rating Calculator](https://javierolmedo.github.io/OWASP-Calculator/)
 - [ThreatSpec](https://threatspec.org/)
-- [PytmGPT](https://chat.openai.com/g/g-soISG24ix-pytmgpt)
+- [PytmGPT](https://chatgpt.com/g/g-soISG24ix-pytmgpt)
 - [AI-driven Threat Modeling-as-a-Code (TaaC-AI)](https://github.com/yevh/TaaC-AI)
 - [Gram](https://github.com/klarna-incubator/gram)
 
