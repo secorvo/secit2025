@@ -1,22 +1,7 @@
 # Hacking Juice Shop
 
-Ich habe keine Idee was ich hier schreiben soll, also wird es halt ein EasterEgg
- 
+Findet Schwachstellen im Juice Shop und versucht euch an den zugehörigen Coding Challenges.
 
-```
-        .-------.         .-------.
-       /       /|        /       /|
-      +-------+ |       +-------+ |
-      |  .-.  | |       |  .-.  | |
-      | (   ) |/        | (   ) |/
-      '-------'         '-------'
-          ||                ||
-          ||                ||
-          ||                ||
-         /  \              /  \
-        /    \            /    \
-       '------'          '------'
-```
 ## Nette Challenges:
 	- Login als anderer User
 	- Auffinden geheimer Daten (Confidential Document)
