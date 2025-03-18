@@ -15,6 +15,6 @@ Generelle Idee:
 ## Weitere Infos / weiteres Material
   - [Payloadsallthethings](https://github.com/swisskyrepo/PayloadsAllTheThings) z.B. für XSS
   - [SecLists](https://github.com/danielmiessler/SecLists) z.B. für Listen von verbreiteten Ordnernamen, Nutzernamen, Passwörter etc. 
-## Wo Infos zu Challenges?
+## Wo gibts Infos zu Challenges?
 	- Hints: https://pwning.owasp-juice.shop/companion-guide/latest/part2/README.html
 	- Lösungen: https://pwning.owasp-juice.shop/companion-guide/latest/appendix/solutions.html
